@@ -1,7 +1,7 @@
 package MonPackage;
 import java.util.ArrayList;
 
-public class LongueurMot
+public class MotSecret
 {
 
 	public static void main(String[] args)
