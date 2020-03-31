@@ -1,7 +1,7 @@
-package Lenbmystérieux;
+package MonPackage
 import java.util.Random; //inclusion d'une fonction pour définir un nombre au hasard
 
-public class Exo1DM
+public class NombreMystérieux
 {
 	
 	public static void main(String[] args)
